@@ -1,8 +1,10 @@
 # GeoJSON endpoints for Japanese administrations
 
 ```
-https://geolonia.github.io/japanese-admins/<prefCode>/<adminCode>.json
+https://geolonia.github.io/japanese-admins/<都道府県名>/<市区町村名>.json
 ```
+※ 都道府県名及び市区町村名は URL エンコードを行ってください。
+
 
 ## ビルド方法
 
